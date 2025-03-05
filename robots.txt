@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /404/$
-Disallow: /log/all/$
-Disallow: /log/series/all/$
-Sitemap: https://jiyong-j.github.io/sitemap.xml
